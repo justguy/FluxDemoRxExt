@@ -13,7 +13,9 @@ Yarn
 
 yarn install
 yarn start
-http://localhost:8000
+git pull
+
+
 
 ## License
 
